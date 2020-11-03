@@ -1,8 +1,8 @@
 <scheme name="Gruvbox Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Rec Mono Light Linear" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="0.9" />
+  <option name="CONSOLE_FONT_NAME" value="Input" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="0.85" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -817,16 +817,11 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_BODY" baseAttributes="TEXT" />
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="fe8019" />
@@ -897,21 +892,11 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="REST.BOLD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.INTERPRETED" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="REST.ITALIC" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
-    <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RUBY_CONSTANT">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
@@ -927,7 +912,6 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
-    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HASH_ASSOC">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
@@ -944,16 +928,11 @@
         <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
-    <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="RUBY_PARAMDEF_CALL">
       <value>
         <option name="FOREGROUND" value="fb4934" />
       </value>
     </option>
-    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
@@ -1026,10 +1005,6 @@
         <option name="ERROR_STRIPE_COLOR" value="76678" />
       </value>
     </option>
-    <option name="SLIM_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="SLIM_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="SLIM_ID" baseAttributes="CSS.HASH" />
-    <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="SPY-JS.EXCEPTION">
       <value>
         <option name="BACKGROUND" value="4f1b14" />
