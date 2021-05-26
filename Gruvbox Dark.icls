@@ -35,7 +35,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="282828" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
